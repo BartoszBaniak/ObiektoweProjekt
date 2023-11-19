@@ -1,2 +1,2 @@
-# Projekt zaliczający przedmiot Programowanie Obiektowe
-Projekt ten przedstawia wybrane sprzęty elektroniczne za pomocą klas i zależności między nimi.
+# Credit project for Object Oriented Programming
+This project represents selected electronic equipment by means of classes and the relationships between them.
